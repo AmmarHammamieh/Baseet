@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="235.276" height="211.057" viewBox="0 0 235.276 211.057">
+  <defs>
+    <filter id="Rectangle_1713" x="0" y="0" width="235.276" height="211.057" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3756" data-name="Group 3756" transform="translate(-1439.5 10510.557)">
+    <g transform="matrix(1, 0, 0, 1, 1439.5, -10510.56)" filter="url(#Rectangle_1713)">
+      <rect id="Rectangle_1713-2" data-name="Rectangle 1713" width="208.276" height="184.057" transform="translate(13.5 13.5)" fill="#fff"/>
+    </g>
+    <g id="Group_3721" data-name="Group 3721" transform="translate(1453.171 -10507.755)">
+      <path id="Path_5717" data-name="Path 5717" d="M0,0H208.276V35.221H0Z" transform="translate(0 10.698)" fill="#035aa7"/>
+      <g id="Group_3720" data-name="Group 3720" transform="translate(21.843)">
+        <g id="Group_3719" data-name="Group 3719">
+          <ellipse id="Ellipse_142" data-name="Ellipse 142" cx="10.266" cy="10.266" rx="10.266" ry="10.266" transform="translate(0 15.346)" fill="#fff"/>
+          <rect id="Rectangle_1715" data-name="Rectangle 1715" width="11.72" height="27.346" rx="5.582" transform="matrix(1, -0.003, 0.003, 1, 4.369, 0.035)" fill="#3b455a"/>
+        </g>
+        <g id="Group_3718" data-name="Group 3718" transform="translate(143.724)">
+          <ellipse id="Ellipse_143" data-name="Ellipse 143" cx="10.266" cy="10.266" rx="10.266" ry="10.266" transform="translate(0 15.784)" fill="#fff"/>
+          <rect id="Rectangle_1716" data-name="Rectangle 1716" width="11.72" height="27.346" rx="5.582" transform="translate(4.369 0.035) rotate(-0.173)" fill="#3b455a"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3717" data-name="Group 3717" transform="translate(1489.698 -10453.578)">
+      <path id="Path_4952" data-name="Path 4952" d="M432.946,389.911c-4.929-7.331-10.434-14.377-17.409-19.878A74.921,74.921,0,0,0,392.8,358.267c-18.318-6.156-38.94-6.689-56.687,1.609-27,12.628-46.738,43.873-44.22,73.919,1.229,14.667,8.054,28.751,19.742,37.887,11.134,8.7,25.336,12.418,39.285,12.855a99.388,99.388,0,0,0,42.109-8.084,71.144,71.144,0,0,0,28.833-22.563c7.38-9.667,13.2-21.426,14.042-33.717.823-11.973-4.412-22.8-14.617-29.228a48.282,48.282,0,0,0-9.74-4.569c-1.751-.617-2.5,2.165-.766,2.777,11.384,4.012,20.8,12.2,22.151,24.739,1.225,11.372-3.327,22.85-9.25,32.33-6.068,9.711-14.209,18.226-24.231,23.862a93.672,93.672,0,0,1-38.2,11.313c-13.432,1.074-27.543-.527-39.652-6.754a49.382,49.382,0,0,1-25.083-31.069c-7.758-28.247,8.088-59.664,31.408-75.675,14.644-10.054,32.506-13.236,49.946-10.389,16.864,2.754,33.06,9.975,44.41,22.991a108.674,108.674,0,0,1,8.179,10.862c1.029,1.53,3.525.09,2.487-1.453Z" transform="translate(-291.677 -353.643)" fill="#090928"/>
+    </g>
+    <text id="_4" data-name="4" transform="translate(1530.037 -10369.285)" fill="#fdb958" font-size="135" font-family="Somar-SemiBold, Somar" font-weight="600"><tspan x="0" y="0">4</tspan></text>
+    <text id="JULY" transform="translate(1535.037 -10347.285)" fill="#fdb958" font-size="33" font-family="Somar-SemiBold, Somar" font-weight="600"><tspan x="0" y="0">JULY</tspan></text>
+  </g>
+</svg>

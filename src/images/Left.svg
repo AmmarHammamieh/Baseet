@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352.081" height="776.273" viewBox="0 0 352.081 776.273">
+  <g id="Component_6_17" data-name="Component 6 – 17" transform="translate(0 4.075)">
+    <path id="Path_464" data-name="Path 464" d="M5235.255-9135.936l.065-9.085s.417-138.533-4.91-140.472" transform="translate(-4962 9306.407)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-width="8"/>
+    <path id="Path_467" data-name="Path 467" d="M5230.485-9135.936l-.065-9.085s11.777-66.854,10.006-161.387" transform="translate(-5150.743 9306.407)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-width="8"/>
+    <g id="Group_435" data-name="Group 435" transform="translate(-319 -1354.593)">
+      <path id="Path_254" data-name="Path 254" d="M859.486,260.792c-1.569-.078-3.22-.157-4.789-.157H642.9c-1.528,0-3.1.078-4.624.157-36.455,2.351-65.313,31.114-65.4,66.3v212.2h.917V862.158H854.7c38.808,0,70.268-29.86,70.268-66.7V327.253C924.965,291.985,896.065,263.143,859.486,260.792Z" transform="translate(-253.884 1264.633)" fill="#069"/>
+      <g id="Group_419" data-name="Group 419" transform="translate(385 1540.513)">
+        <g id="Group_417" data-name="Group 417" transform="translate(0 0.001)">
+          <circle id="Ellipse_27" data-name="Ellipse 27" cx="12.488" cy="12.488" r="12.488" fill="#fff"/>
+        </g>
+        <g id="Group_418" data-name="Group 418" transform="translate(194.604)">
+          <path id="Path_459" data-name="Path 459" d="M452.426,380.047a12.488,12.488,0,1,1-12.486-12.489A12.488,12.488,0,0,1,452.426,380.047Z" transform="translate(-427.451 -367.558)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_423" data-name="Group 423" transform="translate(588.669 1525.193)">
+        <path id="Path_461" data-name="Path 461" d="M989.55,259.278s7.507-5.6-1.938-17" transform="translate(-978.651 -242.278)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+        <path id="Path_462" data-name="Path 462" d="M985.926,258.816c3.3-2.4,7-8.23,3.043-16.691" transform="translate(-985.926 -241.792)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+      </g>
+      <g id="Group_424" data-name="Group 424" transform="translate(388.705 1525.193)">
+        <path id="Path_461-2" data-name="Path 461" d="M990.44,259.279s-7.507-5.6,1.938-17" transform="translate(-987.612 -242.278)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+        <path id="Path_462-2" data-name="Path 462" d="M990.68,258.817c-3.3-2.4-7-8.231-3.043-16.692" transform="translate(-975.615 -241.792)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>

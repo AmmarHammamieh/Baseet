@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.carousel .control-prev.control-arrow:before {
+
+  border-right: 8px solid Black !important;
+}
+.carousel .control-next.control-arrow:before{
+  border-left: 8px solid Black !important;
+
+}
+
+.carousel .control-dots .dot{
+  background: Black !important;
+
+}
+@font-face {
+    font-family: "Somar-Black";
+    src: url("../src/Fonts/Somar/Somar-Black.otf");
+  }
+  @font-face {
+    font-family: "Somar-BlackItalic";
+    src: url("../src/Fonts/Somar/Somar-BlackItalic.otf");
+  }
+  @font-face {
+    font-family: "Somar-Bold";
+    src: url("../src/Fonts/Somar/Somar-Bold.otf");
+  }
+  @font-face {
+    font-family: "Somar-BoldItalic";
+    src: url("../src/Fonts/Somar/Somar-BoldItalic.otf");
+  }
+  @font-face {
+    font-family: "Somar-ExtraBold";
+    src: url("../src/Fonts/Somar/Somar-ExtraBold.otf");
+  }
+  @font-face {
+    font-family: "Somar-ExtraBoldItalic";
+    src: url("../src/Fonts/Somar/Somar-ExtraBoldItalic.otf");
+  }
+  @font-face {
+    font-family: "Somar-Light";
+    src: url("../src/Fonts/Somar/Somar-Light.otf");
+  }
+  @font-face {
+    font-family: "Somar-ExtraLightItalic";
+    src: url("../src/Fonts/Somar/Somar-ExtraLightItalic.otf");
+  }
+  @font-face {
+    font-family: "Somar-ExtraLight";
+    src: url("../src/Fonts/Somar/Somar-ExtraLight.otf");
+  }
+  @font-face {
+    font-family: "Somar-LightItalic";
+    src: url("../src/Fonts/Somar/Somar-ExtraLightItalic.otf");
+  }
+  @font-face {
+    font-family: "Somar-Medium";
+    src: url("../src/Fonts/Somar/Somar-Medium.otf");
+  }
+  @font-face {
+    font-family: "Somar-MediumItalic";
+    src: url("../src/Fonts/Somar/Somar-MediumItalic.otf");
+  }
+  @font-face {
+    font-family: "Somar-Regular";
+    src: url("../src/Fonts/Somar/Somar-Regular.otf");
+  }
+  @font-face {
+    font-family: "Somar-RegularItalic";
+    src: url("../src/Fonts/Somar/Somar-RegularItalic.otf");
+  }
+  @font-face {
+    font-family: "Somar-SemiBold";
+    src: url("../src/Fonts/Somar/Somar-SemiBold.otf");
+  }
+  @font-face {
+    font-family: "Somar-SemiBoldItalic";
+    src: url("../src/Fonts/Somar/Somar-SemiBoldItalic.otf");
+  }
+  @font-face {
+    font-family: "Somar-Thin";
+    src: url("../src/Fonts/Somar/Somar-Thin.otf");
+  }
+  @font-face {
+    font-family: "Somar-ThinItalic";
+    src: url("../src/Fonts/Somar/Somar-ThinItalic.otf");
+  }
+
